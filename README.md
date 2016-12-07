@@ -1,2 +1,5 @@
-# SESYNC-ABM-course
-Repository for spatial ABM course
+# SESYNC spatial ABM course
+
+Goals
+
+- Learn to build spatial ABMs!
